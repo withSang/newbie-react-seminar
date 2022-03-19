@@ -6,7 +6,8 @@
   "scripts": {
     "template": "cd template && npm start",
     "component-basic": "cd component-basic && npm start",
-    "state": "cd state && npm start"
+    "state": "cd state && npm start",
+    "effect": "cd effect && npm start"
   },
   "repository": {
     "type": "git",
