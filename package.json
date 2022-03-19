@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "template": "cd template && npm start"
+    "template": "cd template && npm start",
+    "component-basic": "cd component-basic && npm start"
   },
   "repository": {
     "type": "git",
